@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Meyveler</string>
+    <string name="action_settings">Settings</string>
+    <string name="content">content</string>
+    <string name="title_activity_banana">Muz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hakkimizda">Hakkımızda</string>
+    <string name="title_activity_carrots">Havuç</string>
+    <string name="title_activity_garlic">Sarmısak</string>
+    <string name="title_activity_lemon">Limon</string>
+    <string name="title_activity_mushroom">Mantar</string>
+    <string name="title_activity_tomato">Domates</string>
+    <string name="title_activity_hakkimizda">Hakkimizda</string>
+    <string name="isim">Garen Yöndem</string>
+    <string name="version">v1.0</string>
+    <string name="geliştiren">Geliştiren ve Tasarlayan</string>
+
+</resources>
